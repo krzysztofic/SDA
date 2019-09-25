@@ -1,39 +1,29 @@
 package blok2.weekend5.MIX;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Program {
 
-
-
-    public static void peopleList(){
-
-        Person person_1 = new Person("Artur", "mężczyzna", 15);
-        Person person_2 = new Person("Basia", "kobieta", 30);
-        Person person_3 = new Person("Paweł", "mężczyzna", 20);
-        Person person_4 = new Person("Kasia", "kobieta", 25);
-        Person person_5 = new Person("Marcin", "mężczyzna", 101);
-
-        ArrayList<Person> list = new ArrayList();
-        list.add(person_1);
-        list.add(person_2);
-        list.add(person_3);
-        list.add(person_4);
-        list.add(person_5);
-
-        for (Person i : list) {
-
-            System.out.println(i);
-
-        }
-
-
-
-    }
-
-
     public static void main(String[] args) {
-        peopleList();
+
+        IPersonService personService = new PersonService();
+
+            personService.addPersonToList(new Person("Artur", Gender.Man, 15));
+            personService.addPersonToList(new Person("Basia", Gender.Woman, 30));
+            personService.addPersonToList(new Person("Paweł", Gender.Man, 20));
+            personService.addPersonToList(new Person("Kasia", Gender.Woman, 25));
+            personService.addPersonToList(new Person("Marcin", Gender.Man, 101));
+
+
+            personService.displayMan();
+            personService.displayWoman();
+            personService.displayAge();
+            personService.displayAgeDividedBy10();
+            personService.displaySumOfAge();
+            personService.displayNamesWithSi();
+
+
 
     }
 }

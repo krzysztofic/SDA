@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c6ef7e-29a6-4be5-acb9-fcacb666816c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA/blok1/weekend3/Petle/.idea/Petle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA/blok1/weekend3/Petle/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SDA/blok1/weekend3/Petle/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok2/weekend5/Tablice/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/IPersonService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blok2/weekend5/Figury/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blok2/weekend5/Figury/Four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +25,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Gender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/IPersonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+            <state relative-caret-position="85">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
                 <element signature="e#267#268#0" expanded="true" />
                 <element signature="e#294#295#0" expanded="true" />
                 <element signature="e#324#325#0" expanded="true" />
@@ -50,8 +69,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="235">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#156#164#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,17 +84,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/Tablice/Table.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-769">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="303">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,8 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/OOP/Kolo.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/OOP/Kwadrat.java" />
         <option value="$PROJECT_DIR$/src/blok1/weekend3/OOP/Figury/Kwadrat.java" />
         <option value="$PROJECT_DIR$/src/blok1/weekend3/OOP/Figury/Kolo.java" />
         <option value="$PROJECT_DIR$/src/blok1/weekend3/OOP/Figury/ProgramProstokat.java" />
@@ -142,10 +159,12 @@
         <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/program.java" />
         <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/Osoba.java" />
         <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/List.java" />
-        <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend5/Tablice/Table.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/Gender.java" />
         <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java" />
         <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java" />
-        <option value="$PROJECT_DIR$/src/blok2/weekend5/Tablice/Table.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/IPersonService.java" />
       </list>
     </option>
   </component>
@@ -184,13 +203,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="weekend5" type="462c0819:PsiDirectoryNode" />
               <item name="MIX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="weekend5" type="462c0819:PsiDirectoryNode" />
-              <item name="Tablice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Table">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="blok2.weekend5.Figury.Four" />
       <module name="SDA" />
@@ -299,8 +311,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Table" />
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Table" />
         <item itemvalue="Application.Osoba" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
@@ -324,7 +336,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18910742" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18910742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +345,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.34369886" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.34369886" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44844517" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,7 +353,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.28641573" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.28641573" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -390,14 +402,6 @@
     <SUITE FILE_PATH="coverage/SDA$Main.ic" NAME="Main Coverage Results" MODIFIED="1564822986429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/blok1/weekend3/Petle/zgithuba.java" />
-    <entry file="file://$PROJECT_DIR$/src/blok1/weekend3/Zadania2/Zadanie10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blok1/weekend3/Petle/Choinka.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -736,25 +740,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java">
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/Tablice/Table.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="98">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        <state relative-caret-position="85">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
             <element signature="e#267#268#0" expanded="true" />
             <element signature="e#294#295#0" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
@@ -767,10 +769,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/Tablice/Table.java">
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Gender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-769">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#156#164#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/IPersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
