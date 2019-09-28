@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c6ef7e-29a6-4be5-acb9-fcacb666816c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/IPersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blok2/weekend6/AlgoritmsFromPseudoCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blok2/weekend6/Array_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blok2/weekend6/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blok2/weekend6/Interfaces/StringCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blok2/weekend6/Main_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,71 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Gender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/IPersonService.java">
+        <entry file="file://$PROJECT_DIR$/src/blok2/weekend6/Array_Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="680">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java">
+        <entry file="file://$PROJECT_DIR$/src/blok2/weekend6/Main_Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#156#164#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -114,15 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/OOP/Figury/Kwadrat.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/OOP/Figury/Kolo.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/OOP/Figury/ProgramProstokat.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie1.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie2.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie3.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie4.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/zgithuba.java" />
-        <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie5.java" />
         <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie6.java" />
         <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie7.java" />
         <option value="$PROJECT_DIR$/src/blok1/weekend3/Petle/Choinka.java" />
@@ -165,6 +109,15 @@
         <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java" />
         <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java" />
         <option value="$PROJECT_DIR$/src/blok2/weekend5/MIX/IPersonService.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/Algoritms.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/AlgoritmsFromPseudoCode.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/StringCustom.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/Interfaces/Main.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/Interfaces/StringCustom.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/Array_Fibo.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/Main_Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/Main_Arrays.java" />
+        <option value="$PROJECT_DIR$/src/blok2/weekend6/Array_Fibonacci.java" />
       </list>
     </option>
   </component>
@@ -178,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,20 +147,21 @@
               <item name="SDA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="weekend5" type="462c0819:PsiDirectoryNode" />
+              <item name="blok2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SDA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="weekend5" type="462c0819:PsiDirectoryNode" />
-              <item name="MIX" type="462c0819:PsiDirectoryNode" />
+              <item name="blok2" type="462c0819:PsiDirectoryNode" />
+              <item name="weekend6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,13 +196,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blok2.weekend5.Figury.Four" />
+  <component name="RunManager" selected="Application.Main_Arrays">
+    <configuration name="AlgoritmsFromPseudoCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blok2.weekend6.AlgoritmsFromPseudoCode" />
       <module name="SDA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="blok2.weekend5.Figury.*" />
+          <option name="PATTERN" value="blok2.weekend6.Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +210,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Osoba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blok2.weekend5.MIX.Osoba" />
+    <configuration name="Array_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blok2.weekend6.Array_Fibonacci" />
       <module name="SDA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="blok2.weekend5.MIX.*" />
+          <option name="PATTERN" value="blok2.weekend6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blok2.weekend6.Interfaces.Main" />
+      <module name="SDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blok2.weekend6.Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blok2.weekend6.Main_Arrays" />
+      <module name="SDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blok2.weekend6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,39 +262,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blok2.weekend5.Tablice.Table" />
-      <module name="SDA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="blok2.weekend5.Tablice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blok2.weekend5.Figury.Three" />
-      <module name="SDA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="blok2.weekend5.Figury.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_Arrays" />
+        <item itemvalue="Application.Array_Fibonacci" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AlgoritmsFromPseudoCode" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Table" />
-        <item itemvalue="Application.Osoba" />
-        <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Three" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +289,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18910742" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -345,15 +298,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.34369886" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44844517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.29623568" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44680852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.28641573" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.28641573" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -364,35 +317,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.24962178" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1762481" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.34369886" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44844517" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.95090014" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32980332" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.24962178" />
-    </layout-to-restore>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -402,42 +326,6 @@
     <SUITE FILE_PATH="coverage/SDA$Main.ic" NAME="Main Coverage Results" MODIFIED="1564822986429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/blok1/weekend3/Petle/Choinka.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4216">
-          <caret line="53" column="19" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="19" />
-          <folding>
-            <element signature="e#21853#21854#0" expanded="true" />
-            <element signature="e#21924#21925#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blok1/weekend3/Petle/Zadanie4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -733,13 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/List.java" />
     <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/Tablice/Table.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -749,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="136">
           <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding>
             <element signature="e#192#193#0" expanded="true" />
@@ -757,41 +639,13 @@
             <element signature="e#257#258#0" expanded="true" />
             <element signature="e#295#296#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Gender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#156#164#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
+        <state relative-caret-position="408">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -803,6 +657,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend5/MIX/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend6/AlgoritmsFromPseudoCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend6/Interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend6/Interfaces/StringCustom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend6/Main_Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blok2/weekend6/Array_Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
